@@ -74,8 +74,8 @@ The purpose of this project is to demonstrate how Firebase services can be integ
 | Firebase dependencies | Firebase Core and Firebase Authentication packages | ✅ Complete |
 | Firebase configuration | Connect Flutter Web application to Firebase | ✅ Complete |
 | Firebase initialization | Initialize Firebase when the application starts | 🚧 In Progress |
-| Login screen | Allow existing users to enter their credentials | ⏳ Planned |
-| Registration screen | Allow new users to create an account | ⏳ Planned |
+| Login screen | Allow existing users to enter their credentials | ✅ Complete |
+| Registration screen | Allow new users to create an account | ✅ Complete |
 | Email/password authentication | Authenticate users through Firebase | ⏳ Planned |
 | Authentication state handling | Display the correct screen based on login state | ⏳ Planned |
 | Home screen | Authenticated area of the application | ⏳ Planned |
@@ -533,8 +533,8 @@ docs: add project screenshots and README
 
 ### Phase 3 — Authentication UI
 
-- [ ] Build login screen
-- [ ] Build registration screen
+- [x] Build login screen
+- [x] Build registration screen
 - [ ] Add form validation
 
 ### Phase 4 — Authentication Logic
